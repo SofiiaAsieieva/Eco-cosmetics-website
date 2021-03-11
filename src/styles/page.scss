@@ -1,0 +1,5 @@
+.page {
+  @include desktop {
+    background-color: $beigeGrayColor;
+  }
+}
