@@ -2,7 +2,7 @@
   display: flex;
   margin-top: 200px;
 
-  @include tabletMini {
+  @include desktop {
     padding: 20px;
 
     margin-top: 60px;
